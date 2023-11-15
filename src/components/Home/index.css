@@ -1,0 +1,30 @@
+.home-container {
+  display: flex;
+  padding: 30px;
+}
+.menu-container-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.menu-item {
+  display: flex;
+}
+.react-icon {
+  margin-top: 20px;
+  margin-right: 10px;
+}
+.icon {
+  height: 30px;
+  width: 30px;
+  margin: 10px;
+}
+.banner-logo {
+  height: 400px;
+  width: 800px;
+}
+.get-btn {
+  background-color: transparent;
+  color: #181818;
+  border: 1px solid #181818;
+}
